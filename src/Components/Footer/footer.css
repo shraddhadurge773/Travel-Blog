@@ -1,0 +1,13 @@
+footer{
+    background-color: #111111;
+}
+footer p{
+    color: #adadad;
+    font-size: 14px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+footer p:hover{
+    color: #ff8a65;
+}
